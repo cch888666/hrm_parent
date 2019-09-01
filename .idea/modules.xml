@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hrm_basic_parent/hrm_basic_parent.iml" filepath="$PROJECT_DIR$/hrm_basic_parent/hrm_basic_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm_basic_parent/hrm_basic_util/hrm_basic_util.iml" filepath="$PROJECT_DIR$/hrm_basic_parent/hrm_basic_util/hrm_basic_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm_support_parentspringcloud/hrm_eureka_7001/hrm_eureka_7001.iml" filepath="$PROJECT_DIR$/hrm_support_parentspringcloud/hrm_eureka_7001/hrm_eureka_7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_management_interface/hrm_management_interface.iml" filepath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_management_interface/hrm_management_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_management_service/hrm_management_service.iml" filepath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_management_service/hrm_management_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm_mybatiesplus_gen/hrm_mybatiesplus_gen.iml" filepath="$PROJECT_DIR$/hrm_mybatiesplus_gen/hrm_mybatiesplus_gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm_parent.iml" filepath="$PROJECT_DIR$/hrm_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm_support_parentspringcloud/hrm_support_parentspringcloud.iml" filepath="$PROJECT_DIR$/hrm_support_parentspringcloud/hrm_support_parentspringcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_parent.iml" filepath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm_support_parentspringcloud/hrm_zuul_9527/hrm_zuul_9527.iml" filepath="$PROJECT_DIR$/hrm_support_parentspringcloud/hrm_zuul_9527/hrm_zuul_9527.iml" />
+    </modules>
+  </component>
+</project>
